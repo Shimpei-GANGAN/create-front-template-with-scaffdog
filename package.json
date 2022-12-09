@@ -1,0 +1,13 @@
+{
+  "name": "create-front-template-with-scaffdog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "scaffdog": "scaffdog",
+    "generate": "scaffdog generate"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "scaffdog": "^2.4.0"
+  }
+}
